@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Basic Krunker Minimap
-//@author        I have no idea
+//@author        You
 // @match        *://krunker.io/*
 // @grant        none
 // ==/UserScript==
